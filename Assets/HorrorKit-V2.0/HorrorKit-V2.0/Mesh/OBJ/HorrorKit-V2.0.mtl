@@ -1,0 +1,52 @@
+# Blender 4.3.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.026
+Ns 30.008072
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/Flashlight-V2.0_1024.png
+map_d C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/Flashlight-V2.0_1024.png
+
+newmtl Material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/KeyBake-V2.0_1024.png
+
+newmtl Material.028
+Ns 13.950028
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/Knife-V2.0_1024.png
+map_d C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/Knife-V2.0_1024.png
+
+newmtl Material.029
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/LockBake-V2.0_1024.png
+
+newmtl Material.030
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ianmc/OneDrive/Desktop/Sales/_old/PSXHorrorKit/HorrorKit-V2.0/Texture/Default/RadioBake-V2.0_1024.png
